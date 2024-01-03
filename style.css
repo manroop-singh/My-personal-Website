@@ -303,6 +303,12 @@ footer {
   flex-flow: row wrap;
 }
 
+.container2 {
+  height: 420px;
+  width: 500px;
+  display: flex;
+}
+
 .uses {
   display: flex;
   flex-wrap: wrap;
